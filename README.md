@@ -7,7 +7,7 @@ Clone este repositório em seu ambiente de desenvolvimento.
 git clone https://github.com/Felipe020507/projeto-the-last-of-us.git
 
 ## Licença
-Este projeto está licenciado sob a [Felipe Casale]. 
+Este projeto está licenciado sob Felipe Casale. 
 
 ## Contato
 Para perguntas ou sugestões, entre em contato em felipecasale75@gmail.com
