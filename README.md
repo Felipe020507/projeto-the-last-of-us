@@ -4,7 +4,7 @@ Bem-vindo ao repositório do projeto "The Last of Us", onde exploramos a série 
 ## Como Utilizar Este Projeto
 Clone este repositório em seu ambiente de desenvolvimento.
 
-git clone https://github.com/Felipe020507/projeto-the-last-of-us.git
+git clone https://github.com/Fcasale-dev/projeto-the-last-of-us.git
 
 ## Licença
 Este projeto está licenciado sob Felipe Casale. 
